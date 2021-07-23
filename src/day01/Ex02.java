@@ -10,6 +10,11 @@ public class Ex02 {
 		 \" : "(큰따옴표)표시
 		 \\ \(역슬러시)표시
 		 */
+		
+		System.out.println("H\ne\nl\nl\no java");
+		System.out.println("1\t1234567\t12345678\t12");
+		System.out.println("C:\\Users\\wnsgh\\eclipse-workspace\\day01");
+		System.out.println("test \"123\" \\456");
 	}
 
 }
