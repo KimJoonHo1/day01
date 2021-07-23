@@ -4,7 +4,11 @@ public class Ex03 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		System.out.println(100 + 200);
+		System.out.println("문자열" + 100);
+		System.out.println("문자열" +100 + 500);
+		System.out.println("문자열" + (100 + 500));
+		System.out.println("100" + 100);
 	}
 
 }
